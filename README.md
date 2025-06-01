@@ -196,4 +196,4 @@ MIT License - See LICENSE file for details.
 
 ---
 
-**Ready to start? Try the [Demo](https://englishaccent.streamlit.app/) now!** 
+**Ready to start? Try the [Demo](https://english-accent-detector-nptfdd63qqnpgkczurnbgm.streamlit.app/) now!** 

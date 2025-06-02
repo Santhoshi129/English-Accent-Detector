@@ -19,7 +19,7 @@ This tool is designed for internal use in hiring evaluations to:
 ## 🚀 Quick Start
 
 ### Live Demo
-Access the deployed version at: [https://englishaccent.streamlit.app/](https://englishaccent.streamlit.app/)
+Access the deployed version at: [https://english-accent-detector-nptfdd63qqnpgkczurnbgm.streamlit.app/)
 
 ### Local Setup
 ```bash
